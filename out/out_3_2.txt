@@ -1,0 +1,14 @@
+class
+<1.0>
+<0.0>
+
+
+
+
+"""
+Identification of string to int conversion
+
+'Iris-virginica':  0.0
+'Iris-setosa': 1.0
+'Iris-versicolor': 2.0
+"""
